@@ -97,11 +97,12 @@ p{
     background-image: url(../images/footer-bg.png);
     background-repeat: no-repeat;
     height: 700px;
+    
 }
 .footer-part{
     text-align: center;
     position: relative;
-    top: 25%;
+    top: 20%;
 }
 .footer-part h1{
     font-weight: 500;
@@ -156,7 +157,6 @@ p{
     color: white;
 }
 .footer p{
-    
     font-weight: bold;
 }
 
