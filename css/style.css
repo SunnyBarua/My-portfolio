@@ -76,10 +76,17 @@ p{
 }
 .service h1{
     text-align: center;
+    color: #EC4C7A;
 }
 
 .service img{
     height: 280px;
+    width: 90%;
+}
+
+.service .one-third:hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+    transform: translateY(-10px);
 }
 .service .one-third h3{
     text-align: center;
@@ -91,8 +98,6 @@ p{
     font-weight: 500;
     margin-top: 10px;
 }
-
-
 .color{
     width: 160px;
     height: 3px;
@@ -110,6 +115,7 @@ p{
     position: relative;
     left: 40%;
 }
+
  
 .work-part{
     margin-top: 20px;
@@ -132,6 +138,10 @@ p{
 }
 .work-part h1{
     text-align: center;
+}
+.work-part .one-third img:hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+    transform: translateY(-10px);
 }
 .footer{
     margin-top: 0px;
@@ -179,6 +189,9 @@ p{
     position: relative;
     left: 34%;
         
+}
+.linkButton-email:hover{
+    background-color: #5F5AF3;
 }
 #buttonMessage{
     margin-top: 30px;
