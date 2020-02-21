@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.head-part{
+    background-image: url("../images/header-bg.png");
+    background-repeat: no-repeat;  
+    
+}
+section{
+    height: 900px;
+    padding-bottom: 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+h1{
+    font-size: 40px;
+    margin-bottom: -40px;
+    font-weight: 700;
+}
+.loving-color{
+    color: #EC4C7A;
+}
+p{
+    margin-top: 70px;
+    color:dimgray;
+    margin-bottom: 40px;
+    font-weight: 500;
+    
+
+}
+.half-width img{
+    margin-top: 140px;
+    width: 100%;
+   
+}
+
+.spacing{
+    margin-top: 280px;
+    margin-left: 300px;  
+}
+.link-button{ 
+    text-decoration: none;
+    background:#EC4C78;
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biography-part{
+    background-image: url(../images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 900px;
+   
+}
+.half-width img.space{
+    position: relative;
+    top: -80px;
+}
+.spacing1{
+    margin-top: 260px;
+    margin-left: 100px;  
+}
+
+ 
+.work-part{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    background-image: url('../images/latest-work-bg.png');
+    height: 800px;
+}
+.one-third-all{
+    margin-top: 120px;
+    position: relative;
+    margin-left: 5%;
+}
+.one-third{
+    margin-left: 20px;
+    width: 30%;
+    float: left;
+}
+.one-third img{
+    width: 100%;
+}
+.work-part h1{
+    text-align: center;
+}
+.footer{
+    margin-top: 0px;
+    background-image: url(../images/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.footer-part{
+    text-align: center;
+    position: relative;
+    top: 25%;
+}
+.footer-part h1{
+    font-weight: 500;
+}
+.client-part{
+    margin-top: 100px;
+}
+.client-part h3{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.client-part h4{
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.client-part p{
+    margin-top: 0;
+}
+.button-message{
+    margin-left: 0;
+}
+.linkButton-email{  
+    margin-top: 130px;
+    margin-bottom: 200px;
+    text-decoration: none;
+    background:#EC4C78;
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    height: 100px;
+    width: 440px;
+    position: relative;
+    left: 34%;
+        
+}
+#buttonMessage{
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+    top: 15%;
+}
+#buttonEmail{
+    position: relative;
+    top: 20%;
+    font-size: 24px;
+    font-weight: 500;
+}
+.linkButton-email a{
+    text-decoration: none;
+    color: white;
+}
+.footer p{
+    
+    font-weight: bold;
+}
+
